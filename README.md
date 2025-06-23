@@ -4,7 +4,7 @@ Soy **Ingeniero Civil Informático** con experiencia en el desarrollo de sistema
 
 ## 🧠 Sobre mí
 
-- 🏢 Trabajo actualmente en [Soldesp](https://soldesp.com/)
+- 🏢 Actualmente me encuentro en busca de nuevas oportunidades laborales
 - 🎓 Titulado de Ingeniería Civil en Informática – PUCV
 - 📚 Estudiando Fundamentos de DevOps en un bootcamp
 - 🌍 Ubicación: Quillota, Chile
