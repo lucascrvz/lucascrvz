@@ -4,9 +4,9 @@ Soy **Ingeniero Civil Informático** con experiencia en el desarrollo de sistema
 
 ## 🧠 Sobre mí
 
-- 🏢 Actualmente me encuentro en busca de nuevas oportunidades laborales
-- 🎓 Titulado de Ingeniería Civil en Informática – PUCV
-- 📚 Estudiando Fundamentos de DevOps en un bootcamp
+- 🏢 Actualmente me encuentro trabajando en [Voultech](https://voultech.com/es/)
+- 🎓 Ingeniero Civil en Informática – PUCV
+- 📚 Formandome en el area Devops
 - 🌍 Ubicación: Quillota, Chile
 - ⚡ Dato random: Amante de los Videojuegos 🎮
 
