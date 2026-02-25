@@ -25,8 +25,6 @@ También participo en la implementación de pipelines CI/CD, contenedorización 
 ## 📊 Estadísticas
 
 ![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascrvz&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascrvz&theme=tokyonight&layout=compact)
-
 
 ### 🧰 Tecnologías que uso
 
