@@ -1,20 +1,26 @@
 ## 👋 ¡Hola! Soy Lucas Cruz
 
-Soy **Ingeniero Civil Informático** con experiencia en el desarrollo de sistemas backend utilizando **Node.js, Express y TypeScript**, así como en la gestión de bases de datos relacionales como **MySQL** y **SQL Server**. He trabajado en proyectos relacionados con APIs, automatización de procesos, microservicios y despliegues en entornos Linux.
+Soy **Ingeniero Civil Informático** y **Software Engineer en fintech**, enfocado en el desarrollo e integración de sistemas backend para entornos de alta exigencia.
+
+Especializado en la construcción de APIs RESTful escalables, microservicios y automatización de procesos, trabajando principalmente con Node.js, TypeScript y .NET. Experiencia en optimización de bases de datos relacionales (MySQL, PostgreSQL, SQL Server) y despliegues en entornos Linux.
+
+También participo en la implementación de pipelines CI/CD, contenedorización con Docker y soluciones en Azure.
 
 ## 🧠 Sobre mí
 
 - 🏢 Actualmente me encuentro trabajando en [Voultech](https://voultech.com/es/)
 - 🎓 Ingeniero Civil en Informática – PUCV
-- 📚 Formandome en el area Devops
+- ⚙️ Interesado en prácticas DevOps y automatización de despliegues
 - 🌍 Ubicación: Quillota, Chile
 - ⚡ Dato random: Amante de los Videojuegos 🎮
 
 ## 🚀 Intereses actuales
 
-- Testing (automatizado y de integración)
-- Arquitectura de software
-- Desarrollo en .NET y migración de sistemas heredados
+- Testing automatizado e integración continua
+- Arquitectura de software y sistemas escalables
+- Desarrollo backend en .NET
+- Modernización y migración de sistemas heredados
+- Infraestructura y despliegues cloud
 
 ## 📊 Estadísticas
 
